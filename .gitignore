@@ -40,6 +40,22 @@ ScaffoldingReadMe.txt
 ~$*
 *~
 CodeCoverage/
+*.user
+*.vcxproj.user
+.vs/
+.github/
+packages/
+releases/
+Properties/
+Debug/
+assets/
+x64/
+bin/
+obj/
+build/
+out/
+data/
+backup/
 
 # MSBuild Binary and Structured Log
 *.binlog
