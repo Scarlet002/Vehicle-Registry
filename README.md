@@ -11,6 +11,12 @@ A WPF desktop application using MVVM and EF Core for managing a vehicle registry
 - Automatic saving of edits in DataGrid
 - Data validation
 
+## Screenshots
+
+![Application screenshot](screenshots/main.PNG)
+
+*Place a screenshot of the main application window here (e.g., screenshot.png in the repository root).*
+
 ## Technologies
 
 - C# / .NET 8
@@ -29,3 +35,7 @@ Open the solution in Visual Studio, compile, and run. The SQLite database will b
 - ViewModels – ViewModels and commands
 - Views – XAML windows
 - Styles – global styles
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
