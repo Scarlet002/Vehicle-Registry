@@ -15,8 +15,6 @@ A WPF desktop application using MVVM and EF Core for managing a vehicle registry
 
 ![Application screenshot](screenshots/main.PNG)
 
-*Place a screenshot of the main application window here (e.g., screenshot.png in the repository root).*
-
 ## Technologies
 
 - C# / .NET 8
