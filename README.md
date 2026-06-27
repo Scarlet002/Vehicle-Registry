@@ -1,17 +1,17 @@
-# Rejestr pojazdów
+# Vehicle Registry
 
-Aplikacja desktopowa WPF z wykorzystaniem MVVM i EF Core do zarządzania rejestrem pojazdów.
+A WPF desktop application using MVVM and EF Core for managing a vehicle registry.
 
-## Funkcjonalności
+## Features
 
-- Pełny CRUD pojazdów
-- Zarządzanie przeglądami i ubezpieczeniami
-- Historia zmian pojazdu
-- Wyszukiwanie po wszystkich kolumnach
-- Automatyczny zapis edycji w DataGrid
-- Walidacja danych
+- Full CRUD for vehicles
+- Management of inspections and insurances
+- Vehicle change history
+- Search across all columns
+- Automatic saving of edits in DataGrid
+- Data validation
 
-## Technologie
+## Technologies
 
 - C# / .NET 8
 - WPF + XAML
@@ -19,13 +19,13 @@ Aplikacja desktopowa WPF z wykorzystaniem MVVM i EF Core do zarządzania rejestr
 - Entity Framework Core + SQLite
 - LINQ
 
-## Uruchomienie
+## How to Run
 
-Otwórz rozwiązanie w Visual Studio, skompiluj i uruchom. Baza SQLite zostanie utworzona automatycznie.
+Open the solution in Visual Studio, compile, and run. The SQLite database will be created automatically.
 
-## Struktura
+## Structure
 
-- Models – klasy domenowe i logika biznesowa
-- ViewModels – ViewModele i komendy
-- Views – okna XAML
-- Styles – globalne style
+- Models – domain classes and business logic
+- ViewModels – ViewModels and commands
+- Views – XAML windows
+- Styles – global styles
